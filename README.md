@@ -1,2 +1,3 @@
-# palestras
-Respositório com o conteúdo de palestras e suas respectivas referências
+# :shipit: Palestras
+
+Esse repositório contém os materiais das minhas palestras e as referências de cada uma.
