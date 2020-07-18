@@ -17,6 +17,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 18/07/2020 no even
 - [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/dp/B016LFWKG4/?coliid=I3A2MSMPJAT9LU&colid=2ACIQ01SKFMIE&psc=0&ref_=lv_ov_lig_dp_it)
 - [Learning Chaos Engineering](https://www.amazon.com.br/dp/1492051004/?coliid=I1FEAJORXLCRLP&colid=2ACIQ01SKFMIE&psc=1&ref_=lv_ov_lig_dp_it)
 - [Software Engineering at Google](https://www.amazon.com.br/dp/1492082791/?coliid=I1E517XGRZ6GHW&colid=2ACIQ01SKFMIE&psc=1&ref_=lv_ov_lig_dp_it)
+- [Software Testing: From Theory to Practice](https://sttp.site/)
 
 
 ### :link: Links
