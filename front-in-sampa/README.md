@@ -1,4 +1,4 @@
-![Front In Sampa](../.github/front-in-sampa.jpg)
+![Front In Sampa](../.github/front-in-sampa.jpeg)
 
 # Automatizar testes não é o suficiente!
 
