@@ -4,7 +4,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 18/07/2020 no even
 
 ## Conteúdo
 
-- :computer: Slides
+- :computer: [Slides](https://speakerdeck.com/samycici/automatizar-testes-nao-e-suficiente)
 - :video_camera: Vídeo
 
 ## Referências
