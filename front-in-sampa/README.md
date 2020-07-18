@@ -1,3 +1,5 @@
+![Front In Sampa](./.github/front-in-sampa.jpg)
+
 # Automatizar testes não é o suficiente!
 
 Aqui você encontra o conteúdo da palestra ministrada no dia 18/07/2020 no evento [Front In Sampa](https://www.frontinsampa.com.br/)
