@@ -1,7 +1,7 @@
 <img src="../.github/front-in-sampa.jpeg"
      alt="Front In Sampa"
      style="float: left; margin-right: 10px;" 
-     width="1200" />
+     width="800" />
 
 # Automatizar testes não é o suficiente!
 
