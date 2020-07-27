@@ -30,3 +30,5 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 - [Lean Testing, or Why Unit Tests are Worse than You Think](https://engineering.zalando.com/posts/2018/07/economic-perspective-testing.html)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
 - [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
+- [Why the test pyramid is a bullsh*t — guide to testing towards modern frontend and backend apps](https://medium.com/@mateuszroth/why-the-test-pyramid-is-a-bullshit-guide-to-testing-towards-modern-frontend-and-backend-apps-4246e89b87bd)
+- [The Evolution of the Testing Pyramid](https://www.james-willett.com/the-evolution-of-the-testing-pyramid/)
