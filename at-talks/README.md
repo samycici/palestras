@@ -29,3 +29,4 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 - [Developing a DevOps Testing Strategy: Benefits, Best Practices & Tools](https://www.getzephyr.com/insights/developing-devops-testing-strategy-benefits-best-practices-tools)
 - [Lean Testing, or Why Unit Tests are Worse than You Think](https://engineering.zalando.com/posts/2018/07/economic-perspective-testing.html)
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
+- [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
