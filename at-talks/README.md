@@ -4,7 +4,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 
 ## Conteúdo
 
-- :computer: [Slides]
+- :computer: [Slides](https://speakerdeck.com/samycici/at-talks-triangulos-de-teste-nao-mais)
 - :video_camera: [Vídeo]
 
 ## Referências
@@ -13,7 +13,6 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 
 - [Software Engineering at Google](https://www.amazon.com.br/dp/1492082791/?coliid=I1E517XGRZ6GHW&colid=2ACIQ01SKFMIE&psc=1&ref_=lv_ov_lig_dp_it)
 - [Software Testing: From Theory to Practice](https://sttp.site/)
-
 
 ### :link: Links
 
