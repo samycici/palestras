@@ -5,6 +5,7 @@ Esse repositório contém os materiais das minhas palestras e as referências de
 ## :speaker: Sumário
 
 - [Front In Sampa - Automatizar testes não é o suficiente!](front-in-sampa/README.md)
+- [AT Talks - Triângulos de Teste, Não Mais!](at-talks/README.md)
 
 ## :dart: Disclaimer
 
