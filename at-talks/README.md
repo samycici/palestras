@@ -32,3 +32,4 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 - [Why the test pyramid is a bullsh*t — guide to testing towards modern frontend and backend apps](https://medium.com/@mateuszroth/why-the-test-pyramid-is-a-bullshit-guide-to-testing-towards-modern-frontend-and-backend-apps-4246e89b87bd)
 - [The Evolution of the Testing Pyramid](https://www.james-willett.com/the-evolution-of-the-testing-pyramid/)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Test for value, not vanity. The testing “pyramid” is dead.](https://medium.com/@ed_burton/test-for-value-not-vanity-the-testing-pyramid-is-dead-5abd75c0498a)
