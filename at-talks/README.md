@@ -33,3 +33,4 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 - [The Evolution of the Testing Pyramid](https://www.james-willett.com/the-evolution-of-the-testing-pyramid/)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Test for value, not vanity. The testing “pyramid” is dead.](https://medium.com/@ed_burton/test-for-value-not-vanity-the-testing-pyramid-is-dead-5abd75c0498a)
+- [THE TEST AUTOMATION PYRAMID IS A HEURISTIC NOT A STRATEGY](https://www.mwtestconsultancy.co.uk/the-test-automation-pyramid-is-a-heuristic-not-a-strategy/)
