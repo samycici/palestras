@@ -13,6 +13,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 
 - [Software Engineering at Google](https://www.amazon.com.br/dp/1492082791/?coliid=I1E517XGRZ6GHW&colid=2ACIQ01SKFMIE&psc=1&ref_=lv_ov_lig_dp_it)
 - [Software Testing: From Theory to Practice](https://sttp.site/)
+- [Refatoração: Aperfeiçoando o Design de Códigos Existentes](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=refatora%C3%A7%C3%A3o&qid=1595982820&sr=8-1)
 
 ### :link: Links
 
@@ -34,3 +35,5 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Test for value, not vanity. The testing “pyramid” is dead.](https://medium.com/@ed_burton/test-for-value-not-vanity-the-testing-pyramid-is-dead-5abd75c0498a)
 - [THE TEST AUTOMATION PYRAMID IS A HEURISTIC NOT A STRATEGY](https://www.mwtestconsultancy.co.uk/the-test-automation-pyramid-is-a-heuristic-not-a-strategy/)
+- [Risk Storming](https://www.ministryoftesting.com/testsphere/riskstorming)
+- [https://testautomationpatterns.org/wiki/index.php/Main_Page](https://testautomationpatterns.org/wiki/index.php/Main_Page)
