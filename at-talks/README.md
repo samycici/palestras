@@ -36,4 +36,4 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 - [Test for value, not vanity. The testing “pyramid” is dead.](https://medium.com/@ed_burton/test-for-value-not-vanity-the-testing-pyramid-is-dead-5abd75c0498a)
 - [THE TEST AUTOMATION PYRAMID IS A HEURISTIC NOT A STRATEGY](https://www.mwtestconsultancy.co.uk/the-test-automation-pyramid-is-a-heuristic-not-a-strategy/)
 - [Risk Storming](https://www.ministryoftesting.com/testsphere/riskstorming)
-- [https://testautomationpatterns.org/wiki/index.php/Main_Page](https://testautomationpatterns.org/wiki/index.php/Main_Page)
+- [Test Automation Patterns Wiki](https://testautomationpatterns.org/wiki/index.php/Main_Page)
