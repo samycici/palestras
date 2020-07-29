@@ -5,7 +5,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 28/07/2020 no even
 ## Conteúdo
 
 - :computer: [Slides](https://speakerdeck.com/samycici/at-talks-triangulos-de-teste-nao-mais)
-- :video_camera: [Vídeo]
+- :video_camera: [Vídeo](https://www.youtube.com/watch?v=QSZYrVLcfto)
 
 ## Referências
 
