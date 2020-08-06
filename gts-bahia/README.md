@@ -4,7 +4,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 07/08/2020 no even
 
 ## Conteúdo
 
-- :computer: [Slides]()
+- :computer: [Slides](https://speakerdeck.com/samycici/entrega-continua)
 - :video_camera: [Vídeo]()
 
 ## Referências
