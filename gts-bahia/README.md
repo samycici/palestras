@@ -5,7 +5,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 07/08/2020 no even
 ## Conteúdo
 
 - :computer: [Slides](https://speakerdeck.com/samycici/entrega-continua)
-- :video_camera: [Vídeo]()
+- :video_camera: [Vídeo](https://www.youtube.com/watch?v=3QaTYmWctVQ)
 
 ## Referências
 
@@ -17,6 +17,7 @@ Aqui você encontra o conteúdo da palestra ministrada no dia 07/08/2020 no even
 - [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com/Entrega-Cont%C3%ADnua-Entregar-Confi%C3%A1vel-Portuguese-ebook/dp/B016LFWKG4/ref=sr_1_2?dchild=1&keywords=entrega+continua&qid=1596651315&sr=8-2)
 - [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 - [Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações](https://www.amazon.com.br/dp/8550802697/ref=cm_sw_em_r_mt_dp_0SVkFb7VF4D2T)
+- [Refatoração: Aperfeiçoando o Design de Códigos Existentes](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=refatora%C3%A7%C3%A3o&qid=1595982820&sr=8-1)
 
 ### :link: Links
 
