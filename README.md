@@ -4,6 +4,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 
 ## :speaker: Palestras
 
+- [MTC 2015 - Alcançando Qualidade de Software: Entrega Contínua](./mtc-2015.md)
 - [Lady Talks - Continuous Delivery](./lady-talks.md)
 - [MTC 2016 - Importância testes automatizados para CD & DevOps](./mtc-2016.md)
 - [MTC 2017 - Automatizando Visual Regression Testing](./mtc-2017.md)
@@ -13,6 +14,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 - [Front In Sampa - Automatizar testes não é o suficiente!](./front-in-sampa.md)
 - [AT Talks - Triângulos de Teste, Não Mais!](./at-talks.md)
 - [GTS Bahia - Entrega Contínua](./gts-bahia.md)
+- [DevPira - Qualidade de Software & Cultura DevOps](./devpira.md)
 
 ## :trophy: Artigos
 
@@ -31,6 +33,9 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 
 ## :movie_camera: Outros vídeos
 
+- [[Hangout with Tester NE #1] Diferenças e particularidades do mercado de teste de cada região](https://youtu.be/uBskUN8caG0)
+- [Hangout with Testers 14 - Importância de Soft Skills para um Tester](https://youtu.be/Fz-Gwdepbe8)
+- [Hangout With Testers 20 - Papo de Meninas](https://youtu.be/IWznb9ZU1G8)
 - [[QA Sampa Meeting] Workshop - Visual Regression Testing](https://youtu.be/DW6hUyiW2qE)
 - [[Live Testes CESAR School] #5 | Há vida além da automação de testes?](https://youtu.be/8eOWy9ByTWE)
 - [[Agile Testers] Pergunte-me qualquer coisa](https://youtu.be/PXz38s8qq_Q)
