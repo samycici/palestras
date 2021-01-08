@@ -90,7 +90,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 
 ## :green_book: Livros
 
-- [https://github.com/gomex/deploy-em-producao/](https://github.com/gomex/deploy-em-producao/)
+- [Deploy em Produção para Desenvolvedores](https://github.com/gomex/deploy-em-producao/)
 
 ## :dart: Mais sobre mim
 
