@@ -94,7 +94,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 
 ## :dart: Mais sobre mim
 
-Você encontra mais sobre mim no [samantacicilia.com](http://samantacicilia.com/).
+Você encontra mais sobre mim em [samantacicilia.com](http://samantacicilia.com/).
 
 
 ## :memo: Licença
