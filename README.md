@@ -14,7 +14,12 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 - [Front In Sampa - Automatizar testes não é o suficiente!](./front-in-sampa.md)
 - [AT Talks - Triângulos de Teste, Não Mais!](./at-talks.md)
 - [GTS Bahia - Entrega Contínua](./gts-bahia.md)
+- [QA Ladies - Reflexões sobre Estratégia de Testes](./qa-ladies.md)
+- [Café, Testes e Pão de Queijo - Os arquétipos de QA](https://speakerdeck.com/samycici/os-arquetipos-de-qa)
+- [GUTS-RS - Continuous Testing e Qualidade de Software](https://speakerdeck.com/samycici/continuous-testing-e-qualidade-de-software)
+- [Pagame Talks - Testes de Performance](./pagarme-talks.md)
 - [DevPira - Qualidade de Software & Cultura DevOps](./devpira.md)
+- [INFOTEC - Engenharia de Software](https://speakerdeck.com/samycici/1a-semana-infotec-engenharia-de-software)
 
 ## :trophy: Artigos
 
@@ -40,7 +45,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 - [[Live Testes CESAR School] #5 | Há vida além da automação de testes?](https://youtu.be/8eOWy9ByTWE)
 - [[Agile Testers] Pergunte-me qualquer coisa](https://youtu.be/PXz38s8qq_Q)
 - [[mais.dev] Testes de Integração e Exploratórios](https://youtu.be/GThxc2i-E80)
-
+- [Bate Papo Comunicação Não Violenta](https://youtu.be/8W2oYjhpopg)
 
 ## :green_book: Livros
 
