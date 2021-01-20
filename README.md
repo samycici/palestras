@@ -78,6 +78,9 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 
 ### Português
 
+### 2021
+- [Mapa de Levels de Test Engineer](https://medium.com/pagarme/mapa-de-levels-de-test-engineer-da9c46ff59b7)
+
 #### 2020
 - [Abordagem de Testes](https://medium.com/assertqualityassurance/abordagem-de-testes-212b6238f0c3)
 - [Testes de Performance com Artillery e DataDog](https://medium.com/assertqualityassurance/testes-de-performance-com-artillery-e-datadog-2f2265134202)
