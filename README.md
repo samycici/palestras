@@ -10,6 +10,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 
 ### 2021
 - [INFOTEC - Engenharia de Software](https://speakerdeck.com/samycici/1a-semana-infotec-engenharia-de-software)
+- [De Front com Aline - FAQ #19 - Gestão de Pessoas e Liderança Saudável](./faq-gestao-de-pessoas.md)
 
 ### 2020
 - [The Bug Conference - Como construir a tão falada "Cultura de Qualidade?"](./the-bug-conference.md)
