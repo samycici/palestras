@@ -9,6 +9,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 ## :speaker: Palestras
 
 ### 2021
+- [Emilias - Dia Internacional da Mulher 2021](./emilias.md)
 - [INFOTEC - Engenharia de Software](https://speakerdeck.com/samycici/1a-semana-infotec-engenharia-de-software)
 - [De Front com Aline - FAQ #19 - Gestão de Pessoas e Liderança Saudável](./faq-gestao-de-pessoas.md)
 
