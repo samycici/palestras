@@ -9,7 +9,12 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 ## :speaker: Palestras
 
 ### 2021
+- [Jornada Colaborativa - Isso é uma armadilha! Erros comuns em automação de testes](./jornada-2021.md)
+- [Stone Impacta - Metodologias Ágeis](https://www.canva.com/design/DAEX6p1da7E/ZMG4q5W03unIDxGqWX5Hxg/view?utm_content=DAEX6p1da7E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Entenda a importância da Qualidade e testes de códigos](https://www.youtube.com/watch?v=NjdXUwvr8_w)
+- [Webinar - Quality Assurance: muito além dos bugs!](https://www.youtube.com/watch?v=Cy6KZOfT-0o)
 - [Resilia - Metodologias Ágeis](https://speakerdeck.com/samycici/resilia-metodologias-ageis)
+- [Continuous Testing: Tudo o que você precisa saber!](https://www.youtube.com/watch?v=63On9nQjyBA&t=200s)
 - [Emilias - Dia Internacional da Mulher 2021](./emilias.md)
 - [INFOTEC - Engenharia de Software](https://speakerdeck.com/samycici/1a-semana-infotec-engenharia-de-software)
 - [De Front com Aline - FAQ #19 - Gestão de Pessoas e Liderança Saudável](./faq-gestao-de-pessoas.md)
@@ -81,6 +86,9 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 ### Português
 
 ### 2021
+- [Dicas sobre como mentorar](https://www.linkedin.com/pulse/dicas-sobre-como-mentorar-samanta-cicilia/)
+- [Modelo de Maturidade em Qualidade de Software](https://medium.com/pagarme/modelo-de-maturidade-em-qualidade-de-software-bfd1f0f9d9ad)
+- [Em busca do Essencial: reflexões sobre essencialismo, pontos fortes e motivadores](https://samantacicilia.medium.com/em-busca-do-essencial-reflex%C3%B5es-sobre-essencialismo-pontos-fortes-e-motivadores-74400e53c2ff)
 - [Mapa de Levels de Test Engineer](https://medium.com/pagarme/mapa-de-levels-de-test-engineer-da9c46ff59b7)
 
 #### 2020
