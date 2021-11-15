@@ -136,7 +136,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 
 ### 2021
 - [[Agile Girls] Potencializando os pontos fortes do time](https://open.spotify.com/episode/3RAe7kDNcgmK7npeppLtba)
-- [Viés de gênero em tecnologia](https://techleadership.rocks/2021/11/07/vies-de-genero-em-tecnologia-com-samanta-cicilia-laura-motta-e-suzane-santana/)
+- [[Tech Leadership Rocks] Viés de gênero em tecnologia](https://techleadership.rocks/2021/11/07/vies-de-genero-em-tecnologia-com-samanta-cicilia-laura-motta-e-suzane-santana/)
 
 ### 2020
 - [[Podcast do Julio] Entrevista com Samanta Cicilia](https://anchor.fm/juliodelimas/episodes/Episdio-1-Evoluo-da-minha-carreira--entrevista-com-Samanta-Cicilia-e-desafios-na-adoo-do-Cucumber-eain20/a-a1d0fo3)
