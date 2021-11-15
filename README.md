@@ -9,6 +9,7 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 ## :speaker: Palestras
 
 ### 2021
+- [ATC 2021 - Desenvolvimento Pessoal](https://www.canva.com/design/DAEu8z3QrrY/XHc1EA4Acl976oxfrxAzQQ/view?utm_content=DAEu8z3QrrY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - [Jornada Colaborativa - Isso é uma armadilha! Erros comuns em automação de testes](./jornada-2021.md)
 - [Stone Impacta - Metodologias Ágeis](https://www.canva.com/design/DAEX6p1da7E/ZMG4q5W03unIDxGqWX5Hxg/view?utm_content=DAEX6p1da7E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - [Entenda a importância da Qualidade e testes de códigos](https://www.youtube.com/watch?v=NjdXUwvr8_w)
@@ -132,6 +133,10 @@ Esse repositório contém meus materiais: palestras, artigos, podcasts e muito m
 - [[Women Testers] - My year as a tester 2018](http://www.womentesters.com/samanta-cicilias-year-as-a-tester-2018/)
 
 ## :clapper: Podcasts
+
+### 2021
+- [[Agile Girls] Potencializando os pontos fortes do time](https://open.spotify.com/episode/3RAe7kDNcgmK7npeppLtba)
+- [Viés de gênero em tecnologia](https://techleadership.rocks/2021/11/07/vies-de-genero-em-tecnologia-com-samanta-cicilia-laura-motta-e-suzane-santana/)
 
 ### 2020
 - [[Podcast do Julio] Entrevista com Samanta Cicilia](https://anchor.fm/juliodelimas/episodes/Episdio-1-Evoluo-da-minha-carreira--entrevista-com-Samanta-Cicilia-e-desafios-na-adoo-do-Cucumber-eain20/a-a1d0fo3)
